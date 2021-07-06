@@ -1,0 +1,28 @@
+#+title: Quick intro to testing with Clojure
+#+author: oxalorg
+
+* setting up tests directory
+
+** how to
+jasd asdk aasd kasdasd 
+- asd as asdiaaisdn
+  asd asdaksdmas das dna dsn
+- asjdasd asnd asdn asdn
+  asdasd jas daj
+*** asdas nice enicnei
+*** asdasdasdo
+asda asdasd ocnei 
+adamnsd kja kasjdnahjds
+** asdasd ad
+asdasd 
+asasd asd
+** nice
+* your first test file
+
+* clojure.test basics
+
+* automate test running
+
+* test running via repl
+
+* kaocha

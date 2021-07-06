@@ -12,10 +12,10 @@
 
 * Manipulating parens
 
-## Requirements
-
 * Opendjk-8/11
-    sudo apt install default-jdk
+#+BEGIN_SRC shell
+  sudo apt install default-jdk
+#+END_SRC
 * Clojure
     - curl -O https://download.clojure.org/install/linux-install-1.10.1.561.sh
     - chmod +x linux-install-1.10.1.561.sh
